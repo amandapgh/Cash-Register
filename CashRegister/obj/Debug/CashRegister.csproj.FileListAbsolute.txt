@@ -1,0 +1,6 @@
+C:\CodingPractice\CashRegister\CashRegister\bin\Debug\CashRegister.exe.config
+C:\CodingPractice\CashRegister\CashRegister\obj\Debug\CashRegister.csprojResolveAssemblyReference.cache
+C:\CodingPractice\CashRegister\CashRegister\bin\Debug\CashRegister.exe
+C:\CodingPractice\CashRegister\CashRegister\bin\Debug\CashRegister.pdb
+C:\CodingPractice\CashRegister\CashRegister\obj\Debug\CashRegister.exe
+C:\CodingPractice\CashRegister\CashRegister\obj\Debug\CashRegister.pdb
